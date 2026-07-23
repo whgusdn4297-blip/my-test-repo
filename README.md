@@ -7,4 +7,13 @@
 깃헙 명령어 배울려고 만들어봄.
 
 ## 방법
-제대로 됐나요?? 확인 부탁 드립니다.
+
+깃의 쉘 명령어를 다 외울것.
+
+```java
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("확인부탁");
+  }
+}
+```
